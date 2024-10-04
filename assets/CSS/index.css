@@ -245,6 +245,10 @@ section p {
   font-size: 14px;
 }
 
+.workdiv {
+  justify-content: center; /* Centers horizontally */
+  align-items: center;
+}
 /* Responsive design */
 @media (max-width: 768px) {
   .container {
