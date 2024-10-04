@@ -246,8 +246,8 @@ section p {
 }
 
 .workdiv {
-  justify-content: center; /* Centers horizontally */
-  align-items: center;
+  align-items: center; /* Centers content inside the div */
+  text-align: center;
 }
 /* Responsive design */
 @media (max-width: 768px) {
